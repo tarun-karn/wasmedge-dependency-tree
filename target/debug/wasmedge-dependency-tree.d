@@ -1,0 +1,1 @@
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/wasmedge-dependency-tree: /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/src/graph.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/src/main.rs

@@ -4,5 +4,3 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-wasmedge-sdk = "0.13"
-anyhow = "1.0"
