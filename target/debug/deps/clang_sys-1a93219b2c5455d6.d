@@ -1,0 +1,14 @@
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/deps/clang_sys-1a93219b2c5455d6.d: /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/macros.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/common.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/dynamic.rs
+
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/deps/libclang_sys-1a93219b2c5455d6.rlib: /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/macros.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/common.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/dynamic.rs
+
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/deps/libclang_sys-1a93219b2c5455d6.rmeta: /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/macros.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/common.rs /media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/dynamic.rs
+
+/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs:
+/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs:
+/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs:
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/macros.rs:
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/common.rs:
+/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/build/clang-sys-fd35602faa1da525/out
