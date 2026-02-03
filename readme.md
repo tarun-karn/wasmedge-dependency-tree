@@ -138,10 +138,3 @@ Even though it is small, it mirrors **real WASM store behavior**.
 ## Author
 
 **Tarun Karn**
-Rust | WebAssembly | Systems Programming
-
-# WasmEdge Module Dependency Tree (Rust)
-
-A minimal Rust project that models **WebAssembly (WASM) module dependencies** and demonstrates how a runtime can safely manage and remove modules based on their import relationships.
-
-This 
