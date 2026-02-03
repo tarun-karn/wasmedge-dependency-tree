@@ -1,5 +1,5 @@
-   0.178689921s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree)/Check { test: false }/TargetInner { name: "wasmedge-dependency-tree", doc: true, ..: with_path("/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/src/main.rs", Edition2024) }
-   0.178723155s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-dependency-tree-bd20bd7204047ce8/bin-wasmedge-dependency-tree`
+   0.199709423s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree)/Check { test: false }/TargetInner { name: "wasmedge-dependency-tree", doc: true, ..: with_path("/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/src/main.rs", Edition2024) }
+   0.199744685s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-dependency-tree-bd20bd7204047ce8/bin-wasmedge-dependency-tree`
 
 Caused by:
     No such file or directory (os error 2)
@@ -43,8 +43,8 @@ Stack backtrace:
   25: __libc_start_main_impl
              at ./csu/../csu/libc-start.c:360:3
   26: <unknown>
-   0.240030968s  INFO prepare_target{force=false package_id=wasmedge-sdk v0.13.2 target="wasmedge_sdk"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-sdk v0.13.2/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("wasmedge_sdk", ["lib"], "/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmedge-sdk-0.13.2/src/lib.rs", Edition2021) }
-   0.240045005s  INFO prepare_target{force=false package_id=wasmedge-sdk v0.13.2 target="wasmedge_sdk"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-sdk-0bb0b77a9574ee6d/lib-wasmedge_sdk`
+   0.253501744s  INFO prepare_target{force=false package_id=wasmedge-sdk v0.13.2 target="wasmedge_sdk"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-sdk v0.13.2/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("wasmedge_sdk", ["lib"], "/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmedge-sdk-0.13.2/src/lib.rs", Edition2021) }
+   0.253514736s  INFO prepare_target{force=false package_id=wasmedge-sdk v0.13.2 target="wasmedge_sdk"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-sdk-0bb0b77a9574ee6d/lib-wasmedge_sdk`
 
 Caused by:
     No such file or directory (os error 2)
@@ -89,8 +89,8 @@ Stack backtrace:
   26: __libc_start_main_impl
              at ./csu/../csu/libc-start.c:360:3
   27: <unknown>
-   0.249702948s  INFO prepare_target{force=false package_id=wasmedge-sys v0.17.5 target="wasmedge_sys"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-sys v0.17.5/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("wasmedge_sys", ["lib"], "/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmedge-sys-0.17.5/src/lib.rs", Edition2021) }
-   0.249711755s  INFO prepare_target{force=false package_id=wasmedge-sys v0.17.5 target="wasmedge_sys"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-sys-7f81a6336ee25f17/lib-wasmedge_sys`
+   0.263706123s  INFO prepare_target{force=false package_id=wasmedge-sys v0.17.5 target="wasmedge_sys"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-sys v0.17.5/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("wasmedge_sys", ["lib"], "/home/tarun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmedge-sys-0.17.5/src/lib.rs", Edition2021) }
+   0.263716120s  INFO prepare_target{force=false package_id=wasmedge-sys v0.17.5 target="wasmedge_sys"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-sys-7f81a6336ee25f17/lib-wasmedge_sys`
 
 Caused by:
     No such file or directory (os error 2)
@@ -136,8 +136,8 @@ Stack backtrace:
   27: __libc_start_main_impl
              at ./csu/../csu/libc-start.c:360:3
   28: <unknown>
-   0.318947903s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree)/Check { test: true }/TargetInner { name: "wasmedge-dependency-tree", doc: true, ..: with_path("/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/src/main.rs", Edition2024) }
-   0.318962712s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-dependency-tree-1195654eb4f25034/test-bin-wasmedge-dependency-tree`
+   0.330168643s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint: fingerprint error for wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree)/Check { test: true }/TargetInner { name: "wasmedge-dependency-tree", doc: true, ..: with_path("/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/src/main.rs", Edition2024) }
+   0.330184180s  INFO prepare_target{force=false package_id=wasmedge-dependency-tree v0.1.0 (/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree) target="wasmedge-dependency-tree"}: cargo::core::compiler::fingerprint:     err: failed to read `/media/tarun/Tarun/code/lfx/wasmedge-dependency-tree/target/debug/.fingerprint/wasmedge-dependency-tree-1195654eb4f25034/test-bin-wasmedge-dependency-tree`
 
 Caused by:
     No such file or directory (os error 2)
